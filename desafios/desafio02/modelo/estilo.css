@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #D1C091;
+    background-color: #3162cc;
     font: normal 15pt Arial;
 }
 
@@ -18,7 +18,6 @@ header {
 }
 
 section {
-    text-align: center;
     background-color: white;
     width: 70vw;
     height: 60vh;
@@ -31,11 +30,8 @@ section {
     border-radius: 20px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.448);
 
-    img {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        object-fit: cover;
+    p {
+        margin-top: 15px;
     }
 }
 
